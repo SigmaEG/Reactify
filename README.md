@@ -7,4 +7,4 @@ Syntax highlighting matches based on your Roblox Studio's highlighting configura
 
 Written using React-Lua.
 
-The parser for the API Dump of Instance properties is written by me and is included in the Source Code in the Packages Folder under the title "Properites". The data collected is from a separate automated [GitHub Repository](https://github.com/MaximumADHD/Roblox-Client-Tracker/tree/roblox)
+The parser for the API Dump of Instance properties is written by me and is included in the Source Code in the Packages Folder under the title "Properties". The data collected is from a separate automated [GitHub Repository](https://github.com/MaximumADHD/Roblox-Client-Tracker/tree/roblox)
