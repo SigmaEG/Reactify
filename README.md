@@ -8,3 +8,5 @@ Written using React-Lua.
 Supports [React.Tag] by reading the Tags on an Instance.
 
 The parser for the API Dump of Instance properties is written by me and is included in the Source Code in the Packages Folder under the title "Properties". The data collected is from a separate automated [GitHub Repository](https://github.com/MaximumADHD/Roblox-Client-Tracker/tree/roblox)
+
+[Roblox Plugin](https://create.roblox.com/store/asset/103884846776749/Reactify)
